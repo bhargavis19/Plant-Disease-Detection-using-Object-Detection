@@ -65,4 +65,4 @@ Conventional plant disease detection relies on manual inspection, which is ineff
 
 ## Results and Discussion  
 
-YOLOv8 emerged as the most effective model, excelling in both precision and recall, making it suitable for real-world agricultural applications. Lightweight versions like YOLOv11n demonstrated efficiency for edge deployment, while Faster R-CNN provided robust detection for complex scenarios.  
+YOLOv8 emerged as the most effective model, excelling in both precision and recall, making it suitable for real-world agricultural applications. Lightweight versions like YOLOv11n demonstrated efficiency for edge deployment.
